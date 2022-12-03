@@ -17,3 +17,6 @@ fun fibonacci(count:Int){
     }
     println(arrayFibonacci)
 }
+fun plus(a:Int,b:Int):Int{
+    return a+b
+}
