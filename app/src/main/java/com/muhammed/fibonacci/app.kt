@@ -20,6 +20,3 @@ fun fibonacci(count:Int){
 fun plus(a:Int,b:Int,c:Int,d:Int):Int{
     return a+b+c+d
 }
-fun minus(a:Int,b:Int):Int{
-    return a-b
-}
